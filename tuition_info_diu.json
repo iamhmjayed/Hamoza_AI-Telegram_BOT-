@@ -1,0 +1,457 @@
+{
+  "faculties": [
+    {
+      "name": "Science and Information Technology",
+      "programs": [
+        {
+          "programName": "B. Sc. in Computer Science and Engineering (CSE)",
+          "creditHours": 154.5,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 51867,
+          "averageSemesterFees": 75000,
+          "totalTuitionFees": 713400,
+          "totalProgramFees": 931800
+        },
+        {
+          "programName": "B. Sc. in Software Engineering (SWE)",
+          "creditHours": 145,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 51867,
+          "averageSemesterFees": 70000,
+          "totalTuitionFees": 603000,
+          "totalProgramFees": 871200
+        },
+        {
+          "programName": "B. Sc. in Software Engineering (Major in Cyber Security)",
+          "creditHours": 145,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 51867,
+          "averageSemesterFees": 72000,
+          "totalTuitionFees": 659000,
+          "totalProgramFees": 882200
+        },
+        {
+          "programName": "B.Sc. in Software Engineering (Major in Data Science)",
+          "creditHours": 145,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 51867,
+          "averageSemesterFees": 72000,
+          "totalTuitionFees": 661000,
+          "totalProgramFees": 884200
+        },
+        {
+          "programName": "B. Sc. in Software Engineering (Major in Robotics)",
+          "creditHours": 145,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 51867,
+          "averageSemesterFees": 72000,
+          "totalTuitionFees": 661000,
+          "totalProgramFees": 884200
+        },
+        {
+          "programName": "B. Sc. in Multimedia & Creative Technology (MCT)",
+          "creditHours": 147,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 50467,
+          "averageSemesterFees": 55000,
+          "totalTuitionFees": 468450,
+          "totalProgramFees": 683850
+        },
+        {
+          "programName": "B.Sc. in Computing and Information System (CIS)",
+          "creditHours": 142,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 50667,
+          "averageSemesterFees": 58000,
+          "totalTuitionFees": 483600,
+          "totalProgramFees": 712500
+        },
+        {
+          "programName": "B.Sc. in Information Technology & Management (ITM)",
+          "creditHours": 142,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 50267,
+          "averageSemesterFees": 58000,
+          "totalTuitionFees": 509900,
+          "totalProgramFees": 727100
+        },
+        {
+          "programName": "M. Sc. in Computer Science and Engineering (CSE)",
+          "creditHours": "42 - 62",
+          "programDuration": "1.5 - 2 Years",
+          "payableDuringAdmission": 26625,
+          "averageSemesterFees": 75000,
+          "totalTuitionFees": "99,000 - 159000",
+          "totalProgramFees": "169,875 - 238500"
+        },
+        {
+          "programName": "M. Sc. in Management Information System (MIS)",
+          "creditHours": "42 - 60",
+          "programDuration": "1 - 2 Year",
+          "payableDuringAdmission": 26650,
+          "averageSemesterFees": 65000,
+          "totalTuitionFees": "69000 - 110400",
+          "totalProgramFees": "131850 - 190500"
+        },
+        {
+          "programName": "M. Sc. in Software Engineering (SWE)",
+          "creditHours": 42,
+          "programDuration": "1.5 Years",
+          "payableDuringAdmission": 26125,
+          "averageSemesterFees": 60000,
+          "totalTuitionFees": 90000,
+          "totalProgramFees": 147375
+        },
+        {
+          "programName": "M. Sc in Cyber Security",
+          "creditHours": "40 - 60",
+          "programDuration": "1.5 - 2 Years",
+          "payableDuringAdmission": 26125,
+          "averageSemesterFees": 50000,
+          "totalTuitionFees": "91000 - 145000",
+          "totalProgramFees": "148375 - 226750"
+        }
+      ]
+    },
+    {
+      "name": "Business & Entrepreneurship",
+      "programs": [
+        {
+          "programName": "Bachelor of Business Administration (BBA)",
+          "creditHours": 130,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 56450,
+          "averageSemesterFees": 60000,
+          "totalTuitionFees": 546100,
+          "totalProgramFees": 743200
+        },
+        {
+          "programName": "BBA in Management",
+          "creditHours": 133,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 56350,
+          "averageSemesterFees": 60000,
+          "totalTuitionFees": 541800,
+          "totalProgramFees": 743200
+        },
+        {
+          "programName": "Bachelor of Real Estate",
+          "creditHours": 130,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 54800,
+          "averageSemesterFees": 53000,
+          "totalTuitionFees": 470000,
+          "totalProgramFees": 656200
+        },
+        {
+          "programName": "Bachelor of Tourism & Hospitality Management (BTHM)",
+          "creditHours": 130,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 55000,
+          "averageSemesterFees": 50000,
+          "totalTuitionFees": 413300,
+          "totalProgramFees": 617500
+        },
+        {
+          "programName": "Bachelor of Entrepreneurship (BE)",
+          "creditHours": 130,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 53800,
+          "averageSemesterFees": 55000,
+          "totalTuitionFees": 440700,
+          "totalProgramFees": 682250
+        },
+        {
+          "programName": "BBA in Accounting",
+          "creditHours": 133,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 56350,
+          "averageSemesterFees": 60000,
+          "totalTuitionFees": 541800,
+          "totalProgramFees": 743200
+        },
+        {
+          "programName": "BBA in Finance & Banking",
+          "creditHours": 133,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 56350,
+          "averageSemesterFees": 60000,
+          "totalTuitionFees": 541800,
+          "totalProgramFees": 743200
+        },
+        {
+          "programName": "BBA in Marketing",
+          "creditHours": 133,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 56350,
+          "averageSemesterFees": 60000,
+          "totalTuitionFees": 541800,
+          "totalProgramFees": 743200
+        },
+        {
+          "programName": "Master of Business Administration (MBA)",
+          "creditHours": "40 - 69",
+          "programDuration": "1-2 Years",
+          "payableDuringAdmission": 26125,
+          "averageSemesterFees": 70000,
+          "totalTuitionFees": "135000 - 225000",
+          "totalProgramFees": "183,625 - 307500"
+        },
+        {
+          "programName": "Master of Business Administration (Executive)",
+          "creditHours": 48,
+          "programDuration": "1.5 Years",
+          "payableDuringAdmission": 26125,
+          "averageSemesterFees": 70000,
+          "totalTuitionFees": 168750,
+          "totalProgramFees": 222625
+        }
+      ]
+    },
+    {
+      "name": "Humanities & Social Sciences",
+      "programs": [
+        {
+          "programName": "B.A. (Hons) in English",
+          "creditHours": 140,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 54550,
+          "averageSemesterFees": 50000,
+          "totalTuitionFees": 436800,
+          "totalProgramFees": 620000
+        },
+        {
+          "programName": "LL.B. (Hons.)",
+          "creditHours": 144,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 130000,
+          "averageSemesterFees": 104000,
+          "totalTuitionFees": 684000,
+          "totalProgramFees": 854200
+        },
+        {
+          "programName": "BSS in Journalism, Media and Communication (JMC)",
+          "creditHours": 142,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 52067,
+          "averageSemesterFees": 45000,
+          "totalTuitionFees": 334400,
+          "totalProgramFees": 553600
+        },
+        {
+          "programName": "M. A in English",
+          "creditHours": 40,
+          "programDuration": "1 Years",
+          "payableDuringAdmission": 26625,
+          "averageSemesterFees": 55000,
+          "totalTuitionFees": 80000,
+          "totalProgramFees": 115250
+        },
+        {
+          "programName": "LL.M. (One Year)",
+          "creditHours": 40,
+          "programDuration": "1 Years",
+          "payableDuringAdmission": 26625,
+          "averageSemesterFees": 55000,
+          "totalTuitionFees": 80000,
+          "totalProgramFees": 115250
+        },
+        {
+          "programName": "MSS in Journalism, Media and Communication (JMC)",
+          "creditHours": 40,
+          "programDuration": "1 Years",
+          "payableDuringAdmission": 28625,
+          "averageSemesterFees": 60000,
+          "totalTuitionFees": 74000,
+          "totalProgramFees": 121250
+        },
+        {
+          "programName": "Master of Development Studies (MDS)",
+          "creditHours": 60,
+          "programDuration": "3 Semester",
+          "payableDuringAdmission": 26625,
+          "averageSemesterFees": 55000,
+          "totalTuitionFees": 112000,
+          "totalProgramFees": 167875
+        },
+        {
+          "programName": "Post Graduate Diploma in Information Science and Library Management (PGD in ISLM)",
+          "creditHours": 36,
+          "programDuration": "1 Year",
+          "payableDuringAdmission": 22000,
+          "averageSemesterFees": 35000,
+          "totalTuitionFees": 76000,
+          "totalProgramFees": null
+        }
+      ]
+    },
+    {
+      "name": "Engineering",
+      "programs": [
+        {
+          "programName": "B.Sc. in Information & Communication Engineering (ICE)",
+          "creditHours": 145,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 54800,
+          "averageSemesterFees": 82000,
+          "totalTuitionFees": 468750,
+          "totalProgramFees": 676950
+        },
+        {
+          "programName": "B.Sc. in Textile Engineering (TE)",
+          "creditHours": 154,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 59200,
+          "averageSemesterFees": 85000,
+          "totalTuitionFees": 468700,
+          "totalProgramFees": 704200
+        },
+        {
+          "programName": "B.Sc. in Electrical and Electronic Engineering",
+          "creditHours": 144,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 58400,
+          "averageSemesterFees": 92000,
+          "totalTuitionFees": 530500,
+          "totalProgramFees": 763200
+        },
+        {
+          "programName": "Bachelor of Architecture (B. Arch.)",
+          "creditHours": 194,
+          "programDuration": "5 Years",
+          "payableDuringAdmission": 55100,
+          "averageSemesterFees": 85000,
+          "totalTuitionFees": 617700,
+          "totalProgramFees": 872700
+        },
+        {
+          "programName": "B.Sc. in Civil Engineering (CE)",
+          "creditHours": 147,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 59000,
+          "averageSemesterFees": 91000,
+          "totalTuitionFees": 526750,
+          "totalProgramFees": 753075
+        },
+        {
+          "programName": "M.Sc. in Electronics and Telecommunication Engineering (ETE) (Thesis/Project)",
+          "creditHours": 40,
+          "programDuration": "1.5 Years",
+          "payableDuringAdmission": 26125,
+          "averageSemesterFees": 65000,
+          "totalTuitionFees": 60000,
+          "totalProgramFees": 150375
+        },
+        {
+          "programName": "M.Sc. in Textile Engineering (TE)",
+          "creditHours": 40,
+          "programDuration": "1.5 Years",
+          "payableDuringAdmission": 26125,
+          "averageSemesterFees": 60000,
+          "totalTuitionFees": 70000,
+          "totalProgramFees": 148375
+        }
+      ]
+    },
+    {
+      "name": "Health and Life Sciences",
+      "programs": [
+        {
+          "programName": "B. Sc. in Environmental Science and Disaster Management(ESDM)",
+          "creditHours": 146,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 46867,
+          "averageSemesterFees": 44000,
+          "totalTuitionFees": 354000,
+          "totalProgramFees": 551200
+        },
+        {
+          "programName": "Bachelor of Pharmacy (B. Pharm)",
+          "creditHours": 160,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 66000,
+          "averageSemesterFees": 122500,
+          "totalTuitionFees": 752200,
+          "totalProgramFees": 1008200
+        },
+        {
+          "programName": "Bachelor of Nutrition and Food Engineering (NFE)",
+          "creditHours": 151,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 49200,
+          "averageSemesterFees": 50000,
+          "totalTuitionFees": 408750,
+          "totalProgramFees": 620450
+        },
+        {
+          "programName": "Bachelor of Public Health (BPH)",
+          "creditHours": 142,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 47934,
+          "averageSemesterFees": 47000,
+          "totalTuitionFees": 358400,
+          "totalProgramFees": 586600
+        },
+        {
+          "programName": "B.Sc. (Hon's) in Physical Education and Sports Science (PESS)",
+          "creditHours": 144,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 47967,
+          "averageSemesterFees": 45000,
+          "totalTuitionFees": 359400,
+          "totalProgramFees": 558100
+        },
+        {
+          "programName": "Bachelor of Agricultural Science",
+          "creditHours": 150,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 47867,
+          "averageSemesterFees": 48000,
+          "totalTuitionFees": 416250,
+          "totalProgramFees": 603450
+        },
+        {
+          "programName": "B.Sc. (Hon's) in Genetic Engineering and Biotechnology",
+          "creditHours": 145,
+          "programDuration": "4 Years",
+          "payableDuringAdmission": 57400,
+          "averageSemesterFees": 73000,
+          "totalTuitionFees": 692600,
+          "totalProgramFees": 902200
+        },
+        {
+          "programName": "Master of Pharmacy (M. Pharm.)",
+          "creditHours": 40,
+          "programDuration": "1 Year",
+          "payableDuringAdmission": 30125,
+          "averageSemesterFees": 95000,
+          "totalTuitionFees": "94500 - 117000",
+          "totalProgramFees": 204750
+        },
+        {
+          "programName": "Master of Public Health (MPH)",
+          "creditHours": 52,
+          "programDuration": "2-3 Semesters",
+          "payableDuringAdmission": 27625,
+          "averageSemesterFees": 95000,
+          "totalTuitionFees": 136500,
+          "totalProgramFees": "206,250 - 215873"
+        }
+      ]
+    },
+    {
+      "name": "Graduate Studies",
+      "programs": [
+        {
+          "programName": "Master of Teaching in Digital Education",
+          "creditHours": 36,
+          "programDuration": "1 Year",
+          "payableDuringAdmission": 26625,
+          "averageSemesterFees": 70000,
+          "totalTuitionFees": 100200,
+          "totalProgramFees": 155250
+        }
+      ]
+    }
+  ]
+}

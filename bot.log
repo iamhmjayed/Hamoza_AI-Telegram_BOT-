@@ -1,0 +1,159 @@
+2025-04-26 19:05:10,416 - __main__ - INFO - All systems initialized
+2025-04-26 19:05:10,417 - __main__ - INFO - Starting bot...
+2025-04-26 19:05:10,417 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getMe params=None files=None
+2025-04-26 19:05:10,420 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-04-26 19:05:11,050 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getMe HTTP/11" 200 251
+2025-04-26 19:05:11,051 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":{"id":7952878816,"is_bot":true,"first_name":"Hamoza AI","username":"iamhamozaBot","can_join_groups":true,"can_read_all_group_messages":false,"supports_inline_queries":false,"can_connect_to_business":false,"has_main_web_app":false}}''
+2025-04-26 19:05:11,052 - TeleBot - INFO - Starting your bot with username: [@iamhamozaBot]
+2025-04-26 19:05:11,052 - TeleBot - INFO - Started polling.
+2025-04-26 19:05:11,053 - TeleBot - DEBUG - Received task
+2025-04-26 19:05:11,054 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:05:11,057 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2025-04-26 19:05:31,765 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:05:31,766 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:05:31,767 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:05:31,767 - TeleBot - DEBUG - Task complete
+2025-04-26 19:05:31,768 - TeleBot - DEBUG - Received task
+2025-04-26 19:05:31,768 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:05:52,039 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:05:52,040 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:05:52,040 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:05:52,040 - TeleBot - DEBUG - Task complete
+2025-04-26 19:05:52,041 - TeleBot - DEBUG - Received task
+2025-04-26 19:05:52,041 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:06:12,314 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:06:12,315 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:06:12,315 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:06:12,316 - TeleBot - DEBUG - Task complete
+2025-04-26 19:06:12,316 - TeleBot - DEBUG - Received task
+2025-04-26 19:06:12,316 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:06:32,495 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:06:32,496 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:06:32,497 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:06:32,497 - TeleBot - DEBUG - Task complete
+2025-04-26 19:06:32,498 - TeleBot - DEBUG - Received task
+2025-04-26 19:06:32,498 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:06:52,762 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:06:52,764 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:06:52,764 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:06:52,764 - TeleBot - DEBUG - Task complete
+2025-04-26 19:06:52,764 - TeleBot - DEBUG - Received task
+2025-04-26 19:06:52,765 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:07:12,945 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:07:12,946 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:07:12,946 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:07:12,947 - TeleBot - DEBUG - Task complete
+2025-04-26 19:07:12,947 - TeleBot - DEBUG - Received task
+2025-04-26 19:07:12,947 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:07:33,209 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:07:33,210 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:07:33,210 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:07:33,210 - TeleBot - DEBUG - Task complete
+2025-04-26 19:07:33,211 - TeleBot - DEBUG - Received task
+2025-04-26 19:07:33,211 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:07:53,390 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:07:53,391 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:07:53,392 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:07:53,392 - TeleBot - DEBUG - Task complete
+2025-04-26 19:07:53,392 - TeleBot - DEBUG - Received task
+2025-04-26 19:07:53,393 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:08:13,571 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:08:13,572 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:08:13,572 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:08:13,573 - TeleBot - DEBUG - Task complete
+2025-04-26 19:08:13,573 - TeleBot - DEBUG - Received task
+2025-04-26 19:08:13,574 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:08:33,830 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:08:33,831 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:08:33,831 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:08:33,832 - TeleBot - DEBUG - Task complete
+2025-04-26 19:08:33,832 - TeleBot - DEBUG - Received task
+2025-04-26 19:08:33,833 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:08:54,105 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:08:54,108 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:08:54,109 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:08:54,109 - TeleBot - DEBUG - Task complete
+2025-04-26 19:08:54,109 - TeleBot - DEBUG - Received task
+2025-04-26 19:08:54,110 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:09:14,380 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:09:14,381 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:09:14,381 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:09:14,382 - TeleBot - DEBUG - Task complete
+2025-04-26 19:09:14,382 - TeleBot - DEBUG - Received task
+2025-04-26 19:09:14,383 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:09:34,563 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:09:34,564 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:09:34,564 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:09:34,564 - TeleBot - DEBUG - Task complete
+2025-04-26 19:09:34,565 - TeleBot - DEBUG - Received task
+2025-04-26 19:09:34,565 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:09:54,746 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:09:54,747 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:09:54,747 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:09:54,747 - TeleBot - DEBUG - Task complete
+2025-04-26 19:09:54,748 - TeleBot - DEBUG - Received task
+2025-04-26 19:09:54,748 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:10:15,004 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:10:15,005 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:10:15,005 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:10:15,006 - TeleBot - DEBUG - Task complete
+2025-04-26 19:10:15,006 - TeleBot - DEBUG - Received task
+2025-04-26 19:10:15,006 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:10:35,276 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:10:35,277 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:10:35,277 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:10:35,278 - TeleBot - DEBUG - Task complete
+2025-04-26 19:10:35,278 - TeleBot - DEBUG - Received task
+2025-04-26 19:10:35,278 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:10:55,552 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:10:55,552 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:10:55,553 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:10:55,553 - TeleBot - DEBUG - Task complete
+2025-04-26 19:10:55,553 - TeleBot - DEBUG - Received task
+2025-04-26 19:10:55,554 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:11:15,736 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:11:15,737 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:11:15,737 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:11:15,737 - TeleBot - DEBUG - Task complete
+2025-04-26 19:11:15,738 - TeleBot - DEBUG - Received task
+2025-04-26 19:11:15,738 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:11:35,999 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:11:36,000 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:11:36,000 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:11:36,000 - TeleBot - DEBUG - Task complete
+2025-04-26 19:11:36,001 - TeleBot - DEBUG - Received task
+2025-04-26 19:11:36,001 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:11:56,274 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:11:56,275 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:11:56,275 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:11:56,276 - TeleBot - DEBUG - Task complete
+2025-04-26 19:11:56,276 - TeleBot - DEBUG - Received task
+2025-04-26 19:11:56,276 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:12:16,550 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:12:16,551 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:12:16,552 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:12:16,552 - TeleBot - DEBUG - Task complete
+2025-04-26 19:12:16,552 - TeleBot - DEBUG - Received task
+2025-04-26 19:12:16,553 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:12:36,732 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:12:36,733 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:12:36,733 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:12:36,733 - TeleBot - DEBUG - Task complete
+2025-04-26 19:12:36,733 - TeleBot - DEBUG - Received task
+2025-04-26 19:12:36,734 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:12:56,912 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:12:56,913 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:12:56,913 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:12:56,914 - TeleBot - DEBUG - Task complete
+2025-04-26 19:12:56,914 - TeleBot - DEBUG - Received task
+2025-04-26 19:12:56,914 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:13:17,171 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7952878816:AAF3vtTvTv2J8r4rrfmHz78XwXl_cGNThO8/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2025-04-26 19:13:17,172 - TeleBot - DEBUG - The server returned: 'b'{"ok":true,"result":[]}''
+2025-04-26 19:13:17,173 - TeleBot - DEBUG - Received 0 new updates
+2025-04-26 19:13:17,173 - TeleBot - DEBUG - Task complete
+2025-04-26 19:13:17,174 - TeleBot - DEBUG - Received task
+2025-04-26 19:13:17,174 - TeleBot - DEBUG - Request: method=get url=https://api.telegram.org/bot7952878816:{TOKEN}/getUpdates params={'offset': 1, 'timeout': 20, 'long_polling_timeout': 20} files=None
+2025-04-26 19:13:29,200 - TeleBot - INFO - KeyboardInterrupt received.
+2025-04-26 19:13:29,201 - TeleBot - INFO - Stopped polling.
+2025-04-26 19:13:29,202 - TeleBot - ERROR - Infinity polling: polling exited
+2025-04-26 19:13:29,202 - TeleBot - ERROR - Break infinity polling
