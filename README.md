@@ -8,13 +8,13 @@ Hamoza AI Telebot is a smart Telegram bot powered by Artificial Intelligence. It
 📂 Custom Commands – Extendable for new features.
 🔒 Secure & Reliable – User data protection.
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 Python
 python-telegram-bot
 AI / NLP Models
 Requests, JSON, Logging
 
-#🚀 Installation
+# 🚀 Installation
 # Clone repository
 git clone https://github.com/yourusername/Hamoza-AI-Telebot.git
 cd Hamoza-AI-Telebot
@@ -31,15 +31,15 @@ pip install -r requirements.txt
 TELEGRAM_BOT_TOKEN=your_telegram_token
 OPENAI_API_KEY=your_openai_api_key
 
-#Run the bot:
+Run the bot:
 python bot.py
 
-#📌 Usage
+# 📌 Usage
 Open Telegram and search Hamoza AI Telebot.
 Type /start to begin.
 Chat, ask questions, or use custom commands.
 
-#📂 Project Structure
+# 📂 Project Structure
 Hamoza-AI-Telebot/
 │── bot.py
 │── handlers/
@@ -48,16 +48,16 @@ Hamoza-AI-Telebot/
 │── README.md
 │── .env.example
 
-#🤝 Contribution
+# 🤝 Contribution
 Fork the repo
 Create a new branch
 Commit changes
 Open a Pull Request
 
-#📜 License
+# 📜 License
 Licensed under the MIT License – free to use and modify.
 
-#👤 Author
+# 👤 Author
 Hossain Mohammad Jayed
 CSE Student @ Daffodil International University
 LinkedIn | GitHub
